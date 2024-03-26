@@ -1,10 +1,10 @@
 {
-  "name": "a1r3-bmi-calculator",
+  "name": "12bmi-calculator",
   "version": "1.0.0",
-  "description": "\"a bmi calculator with typescript node.js and inquirer\"",
+  "description": "\"A Bmi-cslculator\"",
   "main": "index.js",
   "type": "module",
-  "bin":"index.js",
+  "bin": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
